@@ -32,8 +32,13 @@ public class NarrowTypeCast {
 	    System.out.println(g);
 	    
 	    
-	    float f = (float)c;
+	    //float to int----------------------------------
+	    float var=34.6f;
 	    
+	    int j = (int)var;
+	    System.out.println(j);
+	    
+	    // 
 	    
 	    
 	}
