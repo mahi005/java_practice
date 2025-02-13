@@ -1,3 +1,5 @@
+package basic;
+
 class KgToPound
 {
 public static void main(String[] args)

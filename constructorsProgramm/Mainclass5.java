@@ -1,3 +1,5 @@
+package constructorsProgramm;
+
 class Product{
     int pid;
     double price;

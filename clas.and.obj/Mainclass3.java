@@ -1,4 +1,4 @@
-class Mobile{
+/*class Mobile{
     String model;
     double price;
     void call(){
@@ -29,3 +29,4 @@ public class Mainclass3{
         m3.message();
     }
 }
+*/

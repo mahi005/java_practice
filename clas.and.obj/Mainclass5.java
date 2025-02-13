@@ -1,4 +1,4 @@
-class Account{
+/*class Account{
     long acctnum;
     double acctbal;
     void withdraw(double amt){
@@ -22,3 +22,4 @@ public class Mainclass5 {
         a1.deposite(7999);
     }
 }
+*/

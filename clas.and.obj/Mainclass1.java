@@ -1,4 +1,4 @@
-class Student {
+/*class Student {
     String name;
     long mobile;
     void write(){
@@ -18,3 +18,4 @@ public class Mainclass1 {
          s1.listen();
     }
 }
+*/

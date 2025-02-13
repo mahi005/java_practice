@@ -1,4 +1,6 @@
- class  Game {
+package constructorsProgramm;
+
+class  Game {
    Game(int a,String s){
     System.out.println("BGMI");
    }

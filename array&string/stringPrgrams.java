@@ -1,4 +1,4 @@
-public class stringPrgrams {
+/*public class stringPrgrams {
     
     public static void main(String[] args) {
         
@@ -96,7 +96,7 @@ public class stringPrgrams {
      System.out.println(str);
      System.out.println("---->"+str+ "<-----");
      System.out.println("---->"+str.trim()+"<-----");
-     */
+     
 
      //---------------------split-------------------------------------------------
      String str = "Jspider Qspider Development And training center";
@@ -110,3 +110,4 @@ public class stringPrgrams {
      }
     }
 }
+*/

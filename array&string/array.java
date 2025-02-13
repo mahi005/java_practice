@@ -1,4 +1,5 @@
-public class array {
+
+/*public class array {
     public static void main(String[] args) {
         //----------------printing array values ---------------------------------
       /*  int[] arr = {1,2,34,54,55,3};
@@ -100,7 +101,7 @@ public class array {
         }
       }
       System.out.println(small);
-      */
+      
 
      //---------------------------array sorting-----------------------------
      int[] arr ={14,13,15,18,17};
@@ -125,3 +126,4 @@ public class array {
     }
     
 }
+*/

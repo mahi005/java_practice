@@ -1,3 +1,5 @@
+package constructorsProgramm;
+
 class Sample{
     int num;
     void play(){

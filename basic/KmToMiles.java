@@ -1,3 +1,5 @@
+package basic;
+
 class KmToMiles
 {
 public static void main(String[] args)

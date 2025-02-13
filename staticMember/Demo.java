@@ -1,4 +1,6 @@
- public class Demo
+package staticMember;
+
+public class Demo
   {
    static int a;
    static {

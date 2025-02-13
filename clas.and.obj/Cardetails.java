@@ -1,4 +1,4 @@
-class Car{
+/*class Car{
     double mileage;
     double price;
     void drive(){
@@ -29,3 +29,4 @@ public class Cardetails{
         mercedes.travel();
     }
 }
+*/

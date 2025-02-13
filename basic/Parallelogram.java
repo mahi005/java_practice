@@ -1,3 +1,5 @@
+package basic;
+
 class Parallelogram
 {
 public static void main(String[] args)

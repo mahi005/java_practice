@@ -1,3 +1,5 @@
+package constructorsProgramm;
+
 class Food{
     Food(int a)
     {

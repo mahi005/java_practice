@@ -1,4 +1,4 @@
-class Employee{
+/*class Employee{
     int eid;
     double ctc;
   
@@ -20,3 +20,4 @@ public class Mainclass2 {
           
         }
 }
+*/

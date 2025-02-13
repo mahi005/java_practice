@@ -1,3 +1,5 @@
+package constructorsProgramm;
+
 class Amazon{
     Amazon()
     {

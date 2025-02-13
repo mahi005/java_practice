@@ -1,3 +1,5 @@
+package constructorsProgramm;
+
 class Alpha{
     int x;
     double y;
